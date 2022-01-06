@@ -7,3 +7,7 @@
 ## 操作方法
 
 `スペースキー`:ジャンプ
+
+### 張り付けたゲームのURL
+
+`https://scratch.mit.edu/projects/624467948/embed`
